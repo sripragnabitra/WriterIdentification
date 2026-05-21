@@ -31,6 +31,11 @@ SE Attention	| Channel attention-based representation learning
 Vision Transformer (ViT) |	Global context modeling
 
 ---
+**Siamese Network Flowchart**
+
+<img width="512" height="280" alt="image" src="https://github.com/user-attachments/assets/c98c27fb-b137-44f7-8a55-52370841052c" />
+
+---
 **Tech Stack**
 - Python
 - PyTorch
@@ -46,6 +51,8 @@ Vision Transformer (ViT) |	Global context modeling
 
 The project is trained and evaluated on large-scale handwriting dataset namely IAM Handwriting Dataset
 Note: Datasets are publicly available and are not included in this repository due to licensing restrictions.
+Sample Images:
+<img width="812" height="176" alt="image" src="https://github.com/user-attachments/assets/85913939-00fb-48a9-b6a1-ae2ed4c6e945" />
 
 ---
 **Preprocessing Pipeline**
@@ -102,9 +109,17 @@ This helps in:
 **Sample Outputs**
 - Grad-CAM Visualization
 
+
+<img width="250" height="180" alt="image" src="https://github.com/user-attachments/assets/40b6e97d-5034-4b22-acb8-5a1c9a2167f8" /><img width="250" height="180" alt="image" src="https://github.com/user-attachments/assets/23857294-639a-4fb5-8bdf-8bfa4c8fc582" />
+
 - Training Curves
 
-Add accuracy/loss plots here
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/0f6ad471-ee97-42f5-9260-63b4cf72b319" />     <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/0f2dd96e-3666-4432-9f4e-d98789d22ca2" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/415bcb9f-f6be-4fac-90f8-1affff771e88" />     <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/03b3e80f-b219-42ff-8f6a-40ed7ce0dc20" />
+
+
+
+
 
 ---
 **Installation**
